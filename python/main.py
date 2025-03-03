@@ -1,7 +1,8 @@
 import cv2
 
+
 def main():
-    img = cv2.imread("../sample_data/EuRoC_MAV/mav0/cam0/data/1403636579763555584.png2")
+    img = cv2.imread("../sample_data/EuRoC_MAV/mav0/cam0/data/1403636579763555584.png")
     if img is None:
         print("Img not found!")
         return
