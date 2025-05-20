@@ -1,2 +1,9 @@
-/sample_data/EuRoC_MAV/mav0/**
+# VSCode
 .vscode/launch.json
+
+# Data
+/sample_data/EuRoC_MAV/mav0/**
+
+# Python
+**/.venv
+**/__pycache__/**
